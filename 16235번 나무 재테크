@@ -29,7 +29,7 @@
 
 
 [소스코드]
-~~~
+~~~c
 #include <iostream>
 #include <vector>
 #include <algorithm>
