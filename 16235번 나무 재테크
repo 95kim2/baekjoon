@@ -28,8 +28,8 @@
   - 위 식이 전부다.
 
 
-
-<dir>
+[소스코드]
+~~~
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -142,4 +142,4 @@ int main(){
     finalTreesNum();
     return 0;
 }
-</dir>
+~~~
